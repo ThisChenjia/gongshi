@@ -1,0 +1,6 @@
+
+pjavascript:S1117j"T"opts" hides or potentially hides a variable declared in an outer scope at line 112.(ùãÓÁ
+bjavascript:UnusedVariableU"8Remove the declaration of the unused 'isTouch' variable.(äÎÿœşÿÿÿÿ
+gjavascript:UnusedVariable­"<Remove the declaration of the unused 'scrollprops' variable.(ÚÇëÌûÿÿÿÿ
+[javascript:S1854U":Remove this useless assignment to local variable "isTouch"(äÎÿœşÿÿÿÿ
+ajavascript:S1854±"ERemove this useless assignment to local variable "scrollTargetOffset"(²‚ñM
